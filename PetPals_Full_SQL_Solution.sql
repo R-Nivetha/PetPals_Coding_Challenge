@@ -82,7 +82,7 @@ END //
 
 DELIMITER ;
 
--- Sample Data
+-- Data
 INSERT INTO Shelters (Name, Location) VALUES ('My Shelter', 'Chennai');
 
 INSERT INTO Pets (Name, Age, Breed, Type, AvailableForAdoption, OwnerID, ShelterID)
